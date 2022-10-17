@@ -24,7 +24,7 @@ public class pangram {
 	  }
 	
 public static void main(String[] args) {
-	//System.out.println(checkIfPangram("thequickbrownfoxjumpsoverthelazydog"));
+	System.out.println(checkIfPangram("thequickbrownfoxjumpsoverthelazydog"));
 	
 	System.out.println("Pangram Using set : " + checkIfPangramUsingSet("%thequickbrownfoxjumpsoverthelazydog"));
 	
