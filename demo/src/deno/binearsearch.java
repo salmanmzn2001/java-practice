@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class binearsearch {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Heeeeelllllllllloooooooooo
 		int i=0;
 		    Scanner sc=new Scanner(System.in);
 		    System.out.println("enter the number");
