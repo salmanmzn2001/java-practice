@@ -17,7 +17,7 @@ package deno;
 public abstract class Abstract_example1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-
       Honda4 h1=new Honda4();
       h1.run();
 	}
