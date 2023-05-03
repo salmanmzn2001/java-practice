@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class example {
-
+hello i am abdur rehman
 	public static void armstrong(int num) {
 		int temp=num,sum=0;
 		while(num!=0) {
